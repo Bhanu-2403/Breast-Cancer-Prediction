@@ -3,6 +3,12 @@
 
 A machine learning project designed to assist in early breast cancer detection by analyzing diagnostic data and predicting the likelihood of malignancy. This project aims to support medical practitioners and researchers with an interpretable, reliable, and efficient predictive tool.
 
+
+
+## 🎥 Demo
+
+![Demo](https://github.com/Bhanu-2403/Breast-Cancer-Prediction/blob/main/gif.gif)
+
 🚀 Features
 
 Data preprocessing & cleaning
